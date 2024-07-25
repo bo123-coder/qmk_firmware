@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Baichuan Ouyang](https://github.com/Baichuan Ouyang)
+* Keyboard Maintainer: [Baichuan Ouyang](https://github.com/bo123-coder)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 

@@ -14,16 +14,17 @@
     },
 
     "matrix_pins": {
-        "cols": ["GP14", "GP15", "GP26", "GP0", "GP1", "GP2"],
-        "rows": ["GP29", "GP28", "GP27", "GP8", "GP13",
-        "GP4", "GP5", "GP6", "GP7", "GP3"]
+        "cols": ["GP29", "GP28", "GP27", "GP8", "GP13",
+        "GP4", "GP5", "GP6", "GP7", "GP3"],
+        "rows": ["GP14", "GP15", "GP26", "GP0", "GP1", "GP2"]
     },
     "processor": "RP2040",
     "url": "",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
-        "vid": "0xFEED"
+        "vid": "0xFEE3",
+        "force_nkro": true
     },
     "layouts": {
         "LAYOUT_split_3x6_4": {
